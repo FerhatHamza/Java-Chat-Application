@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+------
+                *********************************************
+
+                *     Ferhat Hamza 3.L.Informatique         *
+
+                *********************************************
+
+comment My App Marche :
+
+ si vous ete sur internet:
+
+  |    	  in ----> Rcieve Port (textField) Mettez "Your Port"
+  
+  |       in ----> Ip Adresse (textField) Mettez "@ Ip Your Target" 
+			your target can find it in https://www.whatismyip.com/fr/
+  
+  |       in ----> Target Port (textField) Mettez "Your Target Port"
+  
+  |    apers click sur ----> Listen (button).
+ sinon
+  
+  |       in ----> Rcieve Port (textField) Mettez "Your Port"
+  
+  |       in ----> Ip Adresse (textField) Mettez localhost/127.0.0.1
+  
+  |       in ----> Target Port (textField) Mettez "Your Target Port"
+
+-----------------------------------------------------------------------------
