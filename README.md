@@ -2,9 +2,9 @@
 A small Java Chat Application
 ------------------------------
 
-comment  Ca Marche :
+comment ca Marche :
 
-	1. overire 2 instant Du App - First 'you' secend 'Target' -
+  1. overire 2 instant Du App - First 'you' secend 'Target' -
   
   2.Config :
   
